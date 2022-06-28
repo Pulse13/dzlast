@@ -1,12 +1,11 @@
-﻿Console.WriteLine("Введите трёхзначное число: ");
+﻿Console.WriteLine("Введите два числа: ");
 int f = Convert.ToInt32(Console.ReadLine());
-int K = 0;
-if(f>=100 && f<1000)
+int a = Convert.ToInt32(Console.ReadLine());
+if (f>a)
 {
-    K = f%10;
-    Console.WriteLine(K);
+    Console.WriteLine("max = " + f);
 }
 else
 {
-    Console.WriteLine("Ошибка.Введите трёхзначное число");
+    Console.WriteLine("max = " + a);
 }

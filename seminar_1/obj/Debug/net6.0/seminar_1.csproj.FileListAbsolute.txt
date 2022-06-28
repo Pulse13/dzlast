@@ -1,0 +1,15 @@
+C:\Users\shelv\Desktop\gitkekis\с#\seminar_1\bin\Debug\net6.0\seminar_1.exe
+C:\Users\shelv\Desktop\gitkekis\с#\seminar_1\bin\Debug\net6.0\seminar_1.deps.json
+C:\Users\shelv\Desktop\gitkekis\с#\seminar_1\bin\Debug\net6.0\seminar_1.runtimeconfig.json
+C:\Users\shelv\Desktop\gitkekis\с#\seminar_1\bin\Debug\net6.0\seminar_1.dll
+C:\Users\shelv\Desktop\gitkekis\с#\seminar_1\bin\Debug\net6.0\seminar_1.pdb
+C:\Users\shelv\Desktop\gitkekis\с#\seminar_1\obj\Debug\net6.0\seminar_1.csproj.AssemblyReference.cache
+C:\Users\shelv\Desktop\gitkekis\с#\seminar_1\obj\Debug\net6.0\seminar_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shelv\Desktop\gitkekis\с#\seminar_1\obj\Debug\net6.0\seminar_1.AssemblyInfoInputs.cache
+C:\Users\shelv\Desktop\gitkekis\с#\seminar_1\obj\Debug\net6.0\seminar_1.AssemblyInfo.cs
+C:\Users\shelv\Desktop\gitkekis\с#\seminar_1\obj\Debug\net6.0\seminar_1.csproj.CoreCompileInputs.cache
+C:\Users\shelv\Desktop\gitkekis\с#\seminar_1\obj\Debug\net6.0\seminar_1.dll
+C:\Users\shelv\Desktop\gitkekis\с#\seminar_1\obj\Debug\net6.0\refint\seminar_1.dll
+C:\Users\shelv\Desktop\gitkekis\с#\seminar_1\obj\Debug\net6.0\seminar_1.pdb
+C:\Users\shelv\Desktop\gitkekis\с#\seminar_1\obj\Debug\net6.0\seminar_1.genruntimeconfig.cache
+C:\Users\shelv\Desktop\gitkekis\с#\seminar_1\obj\Debug\net6.0\ref\seminar_1.dll
