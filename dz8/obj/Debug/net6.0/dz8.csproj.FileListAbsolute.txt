@@ -1,0 +1,15 @@
+C:\Users\shelv\Desktop\gitkekis\с#\dz8\obj\Debug\net6.0\dz8.csproj.AssemblyReference.cache
+C:\Users\shelv\Desktop\gitkekis\с#\dz8\obj\Debug\net6.0\dz8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shelv\Desktop\gitkekis\с#\dz8\obj\Debug\net6.0\dz8.AssemblyInfoInputs.cache
+C:\Users\shelv\Desktop\gitkekis\с#\dz8\obj\Debug\net6.0\dz8.AssemblyInfo.cs
+C:\Users\shelv\Desktop\gitkekis\с#\dz8\obj\Debug\net6.0\dz8.csproj.CoreCompileInputs.cache
+C:\Users\shelv\Desktop\gitkekis\с#\dz8\bin\Debug\net6.0\dz8.exe
+C:\Users\shelv\Desktop\gitkekis\с#\dz8\bin\Debug\net6.0\dz8.deps.json
+C:\Users\shelv\Desktop\gitkekis\с#\dz8\bin\Debug\net6.0\dz8.runtimeconfig.json
+C:\Users\shelv\Desktop\gitkekis\с#\dz8\bin\Debug\net6.0\dz8.dll
+C:\Users\shelv\Desktop\gitkekis\с#\dz8\bin\Debug\net6.0\dz8.pdb
+C:\Users\shelv\Desktop\gitkekis\с#\dz8\obj\Debug\net6.0\dz8.dll
+C:\Users\shelv\Desktop\gitkekis\с#\dz8\obj\Debug\net6.0\refint\dz8.dll
+C:\Users\shelv\Desktop\gitkekis\с#\dz8\obj\Debug\net6.0\dz8.pdb
+C:\Users\shelv\Desktop\gitkekis\с#\dz8\obj\Debug\net6.0\dz8.genruntimeconfig.cache
+C:\Users\shelv\Desktop\gitkekis\с#\dz8\obj\Debug\net6.0\ref\dz8.dll
