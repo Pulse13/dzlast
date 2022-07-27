@@ -1,0 +1,15 @@
+C:\Users\shelv\Desktop\gitkekis\с#\dzLast\bin\Debug\net6.0\dzLast.exe
+C:\Users\shelv\Desktop\gitkekis\с#\dzLast\bin\Debug\net6.0\dzLast.deps.json
+C:\Users\shelv\Desktop\gitkekis\с#\dzLast\bin\Debug\net6.0\dzLast.runtimeconfig.json
+C:\Users\shelv\Desktop\gitkekis\с#\dzLast\bin\Debug\net6.0\dzLast.dll
+C:\Users\shelv\Desktop\gitkekis\с#\dzLast\bin\Debug\net6.0\dzLast.pdb
+C:\Users\shelv\Desktop\gitkekis\с#\dzLast\obj\Debug\net6.0\dzLast.csproj.AssemblyReference.cache
+C:\Users\shelv\Desktop\gitkekis\с#\dzLast\obj\Debug\net6.0\dzLast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shelv\Desktop\gitkekis\с#\dzLast\obj\Debug\net6.0\dzLast.AssemblyInfoInputs.cache
+C:\Users\shelv\Desktop\gitkekis\с#\dzLast\obj\Debug\net6.0\dzLast.AssemblyInfo.cs
+C:\Users\shelv\Desktop\gitkekis\с#\dzLast\obj\Debug\net6.0\dzLast.csproj.CoreCompileInputs.cache
+C:\Users\shelv\Desktop\gitkekis\с#\dzLast\obj\Debug\net6.0\dzLast.dll
+C:\Users\shelv\Desktop\gitkekis\с#\dzLast\obj\Debug\net6.0\refint\dzLast.dll
+C:\Users\shelv\Desktop\gitkekis\с#\dzLast\obj\Debug\net6.0\dzLast.pdb
+C:\Users\shelv\Desktop\gitkekis\с#\dzLast\obj\Debug\net6.0\dzLast.genruntimeconfig.cache
+C:\Users\shelv\Desktop\gitkekis\с#\dzLast\obj\Debug\net6.0\ref\dzLast.dll
